@@ -8,6 +8,6 @@ public class subs {
         System.out.print("Enter second number: ");
         int b = sc.nextInt();
         int result = a - b;
-        System.out.println("Result: " + result);
+        System.out.println("Subtraction: " + result);
     }
 }
