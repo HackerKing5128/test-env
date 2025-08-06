@@ -9,7 +9,7 @@ public class div {
         double b = sc.nextDouble();
 
         if (b == 0) {
-            System.out.println("Error: Division by zero is undefined.");
+            System.out.println("Division by zero error");
         } else {
             double result = a / b;
             System.out.println("Result: " + result);
